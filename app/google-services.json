@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "112347146860",
+    "project_id": "vichat-cfc5e",
+    "storage_bucket": "vichat-cfc5e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112347146860:android:c09576d8efd58fb9fe0649",
+        "android_client_info": {
+          "package_name": "com.example.vichat2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "112347146860-55kbpd9vjnnobar0hoei2hj9r3on54n5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdl8VmYIWxu2nFhHpZiGE9IQq_ZVT3RuQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "112347146860-55kbpd9vjnnobar0hoei2hj9r3on54n5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
